@@ -8,7 +8,8 @@ In the "Deployment of Code" stage, it checks if the "wp" namespace exists and cr
 
 If any errors occur, it provides an error message and fails the pipeline execution.
 
-Thank you for your time.
+
 
 I hope that my work was sufficient.
 
+Thank you for your time.
